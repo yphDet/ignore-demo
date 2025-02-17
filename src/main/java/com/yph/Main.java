@@ -8,5 +8,7 @@ public class Main {
         System.out.println("world");
         System.out.println("master 分支");
         System.out.println("hot-fix 分支");
+        System.out.println("pull test");
+        
     }
 }
